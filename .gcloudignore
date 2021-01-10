@@ -116,3 +116,8 @@ build
 .next
 .env.*
 !.env.example
+
+############################
+# Next.js source code
+############################
+/pages/
